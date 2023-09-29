@@ -70,13 +70,14 @@ footer {
   justify-content: center;
   align-items: center;
 }
+
 article {
   display:flex;
   flex-direction:row;
   justify-content:left;
   margin: 1rem;
 }
-
+/* made it a bit more pretty so people can truly digest ALL of the information */
 section h3 {
   display: flex;
   margin: auto;
@@ -86,7 +87,7 @@ section h3 {
 article header{
   flex: 0 1 30%
 }
-
+/* pushed it from the left wall a bit just to mess around, looked kinda neat */
 article h2 {
   margin: 0 0 0 1.25rem;
 }
@@ -101,7 +102,7 @@ article header div {
 }
 
 
-
+/* made those media screens pop */
 @media screen and (max-width: 768px) {
   nav ul li {
     margin: 1rem 1rem 1rem 1rem;
