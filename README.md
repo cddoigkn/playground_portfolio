@@ -10,4 +10,9 @@ Part of the main goal in this assignment is to show that we can at least fool ar
 <!-- added spaces, got rid of second set of # -->
 This assignment proved to me that I need to practice a lot more as I went along. There is a lot of vocabulary to get down in the coding world, and while Google is a wonderful search engine, alongside w3schools in order to help me complete this, I have much to improve upon. One such thing would be getting proper shadow properties on my objects within the page. Though it seems trivial, these are little things that an employer might pick up on that show I know how to use a lot of accessories within the coding world.
 <!-- added screenshot to readme -->
+
+The deployed site is located here --> [https://cddoigkn.github.io/playground_portfolio/](https://cddoigkn.github.io/playground_portfolio/)
+
+The repository is located here --> [https://github.com/cddoigkn/playground_portfolio](https://github.com/cddoigkn/playground_portfolio)
+
 ![This is a screenshot of the website itself](./assets/images/website.png)
